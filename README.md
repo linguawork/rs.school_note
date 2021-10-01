@@ -1,4 +1,4 @@
-# github.io-rsschool
+# github.io-rsschool-cv-cv
 
 https://rs.school/
 I will just keep this info in my repo. I wanted to commit to one of the courses of the school but enrolled to another IT school.
