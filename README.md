@@ -1,6 +1,7 @@
-# github.io-rsschool-cv-cv
+# rolling scopes school
 
-https://rs.school/
+https://rs.school/. https://rollingscopes.com/
+
 I will just keep this info in my repo. I wanted to commit to one of the courses of the school but enrolled to another IT school.
 So, hopefully, I will get back to the courses of the rs.school. 
 They have a wonderful approach.
