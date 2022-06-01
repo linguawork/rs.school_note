@@ -26,3 +26,5 @@ Please, like the school by pressing a star https://github.com/rolling-scopes/rss
 
 Documents to read before studying at school!
 https://docs.rs.school/#/
+
+Сказать “спасибо” можно здесь - https://opencollective.com/rsschool
