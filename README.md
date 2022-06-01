@@ -17,3 +17,6 @@ https://docs.rs.school/#/rs-school-mentor
 
 RS School. Курс JS/Frontend-разработка. Подготовительный этап
 https://github.com/rolling-scopes-school/tasks/tree/master/stage0
+
+Code of conduct
+https://docs.rs.school/#/code-of-conduct
