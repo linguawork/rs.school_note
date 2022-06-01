@@ -9,3 +9,5 @@ But I dont have time for their courses so far.
 I recommend the resource to all who are interested. The main language of communication there is Russian.
 
 Good luck! 
+
+I found one more school to study! https://flatironschool.com/about-us/ (it was mentioned in the code of conduct in the documentation of RS School
