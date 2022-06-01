@@ -23,3 +23,6 @@ Code of conduct
 https://docs.rs.school/#/code-of-conduct
 
 Please, like the school by pressing a star https://github.com/rolling-scopes/rsschool-app
+
+Documents to read before studying at school!
+https://docs.rs.school/#/
