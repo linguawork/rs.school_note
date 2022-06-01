@@ -14,3 +14,6 @@ I found one more school to study! https://flatironschool.com/about-us/ (it was m
 
 About mentors in RS school!
 https://docs.rs.school/#/rs-school-mentor
+
+RS School. Курс JS/Frontend-разработка. Подготовительный этап
+https://github.com/rolling-scopes-school/tasks/tree/master/stage0
