@@ -21,3 +21,5 @@ https://github.com/rolling-scopes-school/tasks/tree/master/stage0
 
 Code of conduct
 https://docs.rs.school/#/code-of-conduct
+
+Please, like the school by pressing a star https://github.com/rolling-scopes/rsschool-app
