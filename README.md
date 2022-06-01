@@ -1,4 +1,4 @@
-# rolling scopes school
+# About rolling scopes school
 
 https://rs.school/. https://rollingscopes.com/
 
